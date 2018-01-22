@@ -1,0 +1,75 @@
+body{
+	background-image: url('circles-light.png');
+}
+input[type=text] {
+	border:2px solid blue;
+	border-radius: 4px;
+}
+input[type=password] {
+	border: 2px solid blue;
+	border-radius: 4px;
+}
+input[type=number] {
+	border: 2px solid blue;
+	border-radius: 4px;
+}
+
+#Title{
+	color: black;
+	text-align: center;
+	margin-bottom: 20px;
+	font-family: Verdana;
+	font-size: 150%;
+}	
+
+#Account{
+	background-color: slateblue;
+	color: white;
+	margin-bottom: 20px;
+	width:500px;
+	font-family: Verdana;
+	border-style: groove;
+    border-width: 7px;
+    border-color: darkgrey;
+}
+
+#PersonalInformation{
+	background-color:#8E41D5;
+	color: white;
+	margin-bottom: 20px;
+	width:500px;
+	font-family: Verdana;
+	border-style: groove;
+    border-width: 7px;
+    border-color: darkgrey;
+}
+
+#Availability{
+	background-color: slateblue;
+	color: white;
+	margin-bottom: 20px;
+	width:800px;
+	font-family: Verdana;
+	border-style: groove;
+    border-width: 7px;
+    border-color: darkgrey;
+}
+
+#PersonalStatement{
+	background-color:#8E41D5;
+	color: white;
+	margin-bottom: 20px;
+	width: 800px;
+	font-family: Verdana;
+	border-style: groove;
+    border-width: 7px;
+    border-color: darkgrey;
+}
+
+#Submit{
+	border-style: groove;
+    border-width: 7px;
+    border-color: darkgrey;
+	margin-bottom: 20px;
+	width:126px;
+}
